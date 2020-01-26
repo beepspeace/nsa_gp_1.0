@@ -12,7 +12,7 @@ public class test {
     Vector<HBankAccount>nbank = new Vector<HBankAccount>(100,1);
     //scanner
     Scanner key;
-
+///test new 
     //Constructor
     public  Bank () {
         nbank = new Vector<HBankAccount>();
