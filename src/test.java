@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Vector;
-//Fuck you bithces
+//Dont write this kind of shit.
 //Design a class Bank that has a vector of bankAccounts and a set of methods to
 //manipulate those accounts.
 //createAccount(), removeAccount(), showAccount()
